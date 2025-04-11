@@ -122,7 +122,6 @@ body{
 .playlist{
     display: grid;
     justify-content: flex-end;
-    position: relative;
     height: 100vh;
     margin-top: -75%;
     top: 20px;
